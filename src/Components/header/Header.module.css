@@ -1,0 +1,7 @@
+.con2{
+  color: white;
+  display: flex;
+  justify-content: center ;
+  gap: 40px;
+  font-size: 20px;
+}
